@@ -1,0 +1,16 @@
+USING COMMAND LINE ON Hyper:
+pwd   (print working directory )
+
+mkdir directoryName  (Make directory )
+
+touch fileName (Create file )
+
+Open file with editor from command line:
+
+atom .  ( textEditor . - opens file with the specified text editor )
+
+node fileName (run file)
+
+node (Puts you in the node, where you can run basic codes directly) 
+
+Ctrl +c exits commandline activities on Hyper
